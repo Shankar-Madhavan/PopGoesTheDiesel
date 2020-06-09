@@ -1,0 +1,36 @@
+Action Space
+Action number
+Steering
+Speed
+0	
+-30degrees
+0.33m/s
+1	
+-30degrees
+0.67m/s
+2	
+-30degrees
+1m/s
+3	
+0degrees
+0.33m/s
+4	
+0degrees
+0.67m/s
+5	
+0degrees
+1m/s
+6	
+30degrees
+0.33m/s
+7	
+30degrees
+0.67m/s
+8	
+30degrees
+1m/s
+
+
+1	00:00:23.459	100%	Lap complete
+2	00:00:10.663	36%	Off track
+3	00:00:23.329	100%	Lap complete

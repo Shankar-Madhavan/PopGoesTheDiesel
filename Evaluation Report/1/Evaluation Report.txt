@@ -1,0 +1,32 @@
+Action Space
+0	
+-30degrees
+0.33m/s
+1	
+-30degrees
+0.67m/s
+2	
+-30degrees
+1m/s
+3	
+0degrees
+0.33m/s
+4	
+0degrees
+0.67m/s
+5	
+0degrees
+1m/s
+6	
+30degrees
+0.33m/s
+7	
+30degrees
+0.67m/s
+8	
+30degrees
+1m/s
+
+1	00:00:18.475	86%	Off track
+2	00:00:09.158	35%	Off track
+3	00:00:06.927	30%	Off track

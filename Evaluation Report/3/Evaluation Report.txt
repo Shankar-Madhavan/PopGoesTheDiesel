@@ -1,0 +1,35 @@
+1	00:00:01.549	4%	Off track
+2	00:00:22.816	100%	Lap complete
+3	00:00:23.621	100%	Lap complete
+
+
+2 hrs
+
+Action Space
+0	
+-30degrees
+0.33m/s
+1	
+-30degrees
+0.67m/s
+2	
+-30degrees
+1m/s
+3	
+0degrees
+0.33m/s
+4	
+0degrees
+0.67m/s
+5	
+0degrees
+1m/s
+6	
+30degrees
+0.33m/s
+7	
+30degrees
+0.67m/s
+8	
+30degrees
+1m/s
