@@ -1,0 +1,69 @@
+Trial
+Time
+Trial results (% track completed)
+Status
+1	00:00:15.678	100%	Lap complete
+2	00:00:14.559	92%	Off track
+3	00:00:10.531	60%	Off track
+
+
+
+2 hrs training
+
+Hyper Paramter Default what AWS has setup
+
+Action Space
+
+speed 1.5m/s
+Speed Granularity
+2
+maximum steering 30 
+Streering Granularity
+7
+
+
+Action number
+Steering
+Speed
+0	
+-30degrees
+0.75m/s
+1	
+-30degrees
+1.5m/s
+2	
+-20degrees
+0.75m/s
+3	
+-20degrees
+1.5m/s
+4	
+-10degrees
+0.75m/s
+5	
+-10degrees
+1.5m/s
+6	
+0degrees
+0.75m/s
+7	
+0degrees
+1.5m/s
+8	
+10degrees
+0.75m/s
+9	
+10degrees
+1.5m/s
+10	
+20degrees
+0.75m/s
+11	
+20degrees
+1.5m/s
+12	
+30degrees
+0.75m/s
+13	
+30degrees
+1.5m/s
