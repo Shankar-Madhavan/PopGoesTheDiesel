@@ -1,0 +1,68 @@
+Trial
+Time
+Trial results (% track completed)
+Status
+1	00:00:21.605	100%	Lap complete
+2	00:00:19.897	100%	Lap complete
+3	00:00:20.926	100%	Lap complete
+4	00:00:19.263	96%	Off track
+5	00:00:20.974	100%	Lap complete
+
+2 hrs training
+
+Hyperparameter
+Value
+Gradient descent batch size	128
+Entropy	0.01
+Discount factor	0.999
+Loss type	Huber
+Learning rate	0.0009
+Number of experience episodes between each policy-updating iteration	20
+Number of epochs	10
+
+
+Action number
+Steering
+Speed
+0	
+-30degrees
+0.75m/s
+1	
+-30degrees
+1.5m/s
+2	
+-20degrees
+0.75m/s
+3	
+-20degrees
+1.5m/s
+4	
+-10degrees
+0.75m/s
+5	
+-10degrees
+1.5m/s
+6	
+0degrees
+0.75m/s
+7	
+0degrees
+1.5m/s
+8	
+10degrees
+0.75m/s
+9	
+10degrees
+1.5m/s
+10	
+20degrees
+0.75m/s
+11	
+20degrees
+1.5m/s
+12	
+30degrees
+0.75m/s
+13	
+30degrees
+1.5m/s

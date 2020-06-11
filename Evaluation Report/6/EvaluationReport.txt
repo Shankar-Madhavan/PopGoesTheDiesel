@@ -1,0 +1,68 @@
+Evaluation results
+Trial
+Time
+Trial results (% track completed)
+Status
+1	00:00:06.552	28%	Off track
+2	00:00:05.411	24%	Off track
+3	00:00:06.234	24%	Off track
+4	00:00:14.279	95%	Off track
+5	00:00:11.896	68%	Off track
+
+
+Hyperparameter
+Value
+Gradient descent batch size	128
+Entropy	0.05
+Discount factor	0.999
+Loss type	Huber
+Learning rate	0.0005
+Number of experience episodes between each policy-updating iteration	20
+Number of epochs	7
+
+
+Action number
+Steering
+Speed
+0	
+-30degrees
+0.75m/s
+1	
+-30degrees
+1.5m/s
+2	
+-20degrees
+0.75m/s
+3	
+-20degrees
+1.5m/s
+4	
+-10degrees
+0.75m/s
+5	
+-10degrees
+1.5m/s
+6	
+0degrees
+0.75m/s
+7	
+0degrees
+1.5m/s
+8	
+10degrees
+0.75m/s
+9	
+10degrees
+1.5m/s
+10	
+20degrees
+0.75m/s
+11	
+20degrees
+1.5m/s
+12	
+30degrees
+0.75m/s
+13	
+30degrees
+1.5m/s
